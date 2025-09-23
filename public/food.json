@@ -1,0 +1,106 @@
+[
+  {
+    "recipe_id": "rcp-001",
+    "recipe_name": "Roasted Chicken",
+    "recipe_image": "https://i.ibb.co.com/RpWyzL2R/pexels-sydney-troxell-223521-718742.jpg",
+    "short_description": "A simple and delicious roasted chicken with herbs and spices, perfect for a family dinner.",
+    "ingredients": [
+      "550 g chicken",
+      "120 ml olive oil",
+      "200 g potatoes",
+      "400 g carrots",
+      "1 onion",
+      "2 cloves garlic",
+      "10 g rosemary",
+      "5 g thyme"
+    ],
+    "preparing_time": "90 min",
+    "calories": "650 calories"
+  },
+  {
+    "recipe_id": "rcp-002",
+    "recipe_name": "Summer Salad",
+    "recipe_image": "https://i.ibb.co.com/kVR5Ldvt/pexels-adriano-bragi-1288014591-31779545.jpg",
+    "short_description": "A light and refreshing salad with mixed greens, fresh berries, and a tangy vinaigrette.",
+    "ingredients": [
+      "200 g mixed greens",
+      "100 g strawberries",
+      "50 g blueberries",
+      "50 g walnuts",
+      "30 ml balsamic vinegar",
+      "15 ml honey",
+      "100 g goat cheese"
+    ],
+    "preparing_time": "15 min",
+    "calories": "250 calories"
+  },
+  {
+    "recipe_id": "rcp-003",
+    "recipe_name": "Spicy Ramen",
+    "recipe_image": "https://i.ibb.co.com/qY2h9McJ/pexels-dima-valkov-1186343-4001870.jpg",
+    "short_description": "A flavorful and spicy ramen bowl with a rich broth, soft-boiled egg, and pork belly.",
+    "ingredients": [
+      "1 packet ramen noodles",
+      "200 ml chicken broth",
+      "50 g pork belly",
+      "1 soft-boiled egg",
+      "20 g green onions",
+      "10 g dried seaweed",
+      "20 ml chili oil"
+    ],
+    "preparing_time": "20 min",
+    "calories": "480 calories"
+  },
+  {
+    "recipe_id": "rcp-004",
+    "recipe_name": "Homemade Pizza",
+    "recipe_image": "https://i.ibb.co.com/7NT9FGhr/pexels-enginakyurt-2347311.jpg",
+    "short_description": "A classic homemade pizza with a crispy crust and your favorite toppings, customizable for any taste.",
+    "ingredients": [
+      "1 pre-made pizza dough",
+      "100 ml tomato sauce",
+      "200 g mozzarella cheese",
+      "100 g pepperoni",
+      "50 g mushrooms",
+      "1 bell pepper",
+      "20 g black olives"
+    ],
+    "preparing_time": "40 min",
+    "calories": "700 calories"
+  },
+  {
+    "recipe_id": "rcp-005",
+    "recipe_name": "Pasta with Basil Pesto",
+    "recipe_image": "https://i.ibb.co.com/N6FFbh3H/pexels-iamabdullahsheik-10508207.jpg",
+    "short_description": "A fresh and vibrant pasta dish with homemade basil pesto, cherry tomatoes, and parmesan.",
+    "ingredients": [
+      "250 g spaghetti",
+      "100 g fresh basil",
+      "50 g parmesan cheese",
+      "30 g pine nuts",
+      "80 ml olive oil",
+      "2 cloves garlic",
+      "100 g cherry tomatoes"
+    ],
+    "preparing_time": "25 min",
+    "calories": "550 calories"
+  },
+  {
+    "recipe_id": "rcp-006",
+    "recipe_name": "Sushi Rolls",
+    "recipe_image": "https://i.ibb.co.com/8nGq5P05/pexels-polina-tankilevitch-4518836.jpg",
+    "short_description": "Fresh and artful sushi rolls filled with fish, vegetables, and seasoned rice, a true delicacy.",
+    "ingredients": [
+      "200 g sushi rice",
+      "100 ml rice vinegar",
+      "2 sheets nori seaweed",
+      "100 g fresh tuna",
+      "1 avocado",
+      "1 cucumber",
+      "10 g wasabi paste",
+      "20 ml soy sauce"
+    ],
+    "preparing_time": "45 min",
+    "calories": "420 calories"
+  }
+]
