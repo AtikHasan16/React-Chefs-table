@@ -9,3 +9,7 @@
   font-weight: 500;
   font-style: normal;
 }
+
+.button-style {
+  @apply border-green-300 hover:border-2  p-5 rounded-full  text-xl  font-bold border-2 transition-colors duration-300;
+}
