@@ -6,7 +6,7 @@ import Banner from "./components/Banner";
 
 export default function App() {
   const foodDataPromise = async () => {
-    const foodDataPromise = await fetch("../public/food.json");
+    const foodDataPromise = await fetch("/public/food.json");
     return foodDataPromise.json();
   };
   const foodPromise = foodDataPromise();
